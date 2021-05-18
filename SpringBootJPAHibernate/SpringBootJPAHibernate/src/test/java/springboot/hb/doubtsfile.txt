@@ -1,0 +1,5 @@
+Even though putting @Rollback(true), object still getting persisted in Database
+
+why is it mandatory to use @Springboottest annotation
+
+Mockito : why when-thenReturn not coming for delete Method in JPA repo
